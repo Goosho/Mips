@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\goosh\Documents\Bce\mips\module\simulation\qsim
+vmodule
+Z1 Iz<lbo4c@:=j@kf:mRAiRC2
+Z2 V]T3cmQUak29fago:85A^z2
+Z3 dC:\Users\goosh\Documents\Bce\mips\module\simulation\qsim
+Z4 w1577356095
+Z5 8module.vo
+Z6 Fmodule.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 30UVB<>;5knAK=EOj0QhM2
+!s85 0
+Z10 !s108 1577356097.141000
+Z11 !s107 module.vo|
+Z12 !s90 -work|work|module.vo|
+!s101 -O0
+vmodule_vlg_check_tst
+!i10b 1
+!s100 IXb5n^E;nEk65Q:?8;4Bb2
+IigP^2z;gkL<EB1`:9=UYM1
+V]C@QG=5W^jkgCSnM0OaZ?1
+R3
+Z13 w1577356092
+Z14 8Waveform.vwf.vt
+Z15 FWaveform.vwf.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z16 !s108 1577356097.666000
+Z17 !s107 Waveform.vwf.vt|
+Z18 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+vmodule_vlg_sample_tst
+!i10b 1
+!s100 H822om33297RUT5lW:YKU3
+ID_RS7mNLd<64<c<OjUIkB2
+Vf[e>RVi0TCfG9lM5o1eK93
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
